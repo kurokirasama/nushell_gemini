@@ -1,0 +1,6 @@
+{
+  "empty": "",
+  "parse_html": "Extract the underlying text from the given HTML code. Remove any HTML tags and return only the plain text. Here is the HTML code to process: ",
+  "brief_summary": "Please summarize, in a concise and coherent narrative, and in a few brief sentences, the text I'm going to give you next, delimited by triple single quotes ('''):",
+  "summarize_html2text": "Summarize the web search result in the following text (in markdown format), delimited by triple single quotes ('''), into a few paragraphs, so that anyone who reads it can use it to respond to the question/query: '<question>'. Note that the answer may not be explicitly stated in the text, but it can help the user in his thought process. Deliver your response in markdown format without any commentaries on your part. IMPORTANT: if there is information that could answer the question, make sure to INCLUDE it literally in your response. The text:"
+}
