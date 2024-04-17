@@ -35,7 +35,7 @@ bash scripts/install-all.sh
 ### Loading this project
 First clone this repo:
 ```bash 
-git clone https://github.com/nushell/nushell.git
+git clone https://github.com/kurokirasama/nushell_gemini.git
 cd nushell_gemini
 ```
 Then enter Nushell:
