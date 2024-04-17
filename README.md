@@ -61,7 +61,7 @@ In order to being able to use this project you will need:
 In addition, if you want to be able to enhance prompts with web searches, you will need:
 
 - A Google Search API key and CX.
-- [html2text](https://github.com/aaronsw/html2text) in your PATH (latest version in this repo).
+- [html2text](https://github.com/aaronsw/html2text) in your PATH.
 
 Finally, to being able to save a chat conversation into a Joplin note, you will need [Joplin cli](https://github.com/laurent22/joplin) installed.
 
